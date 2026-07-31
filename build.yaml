@@ -170,3 +170,9 @@ include:
   - board: nice_nano@2//zmk
     shield: settings_reset
     artifact-name: nice_nano_v2_settings_reset
+
+# coffeevan
+  - board: coffeevan
+    snippet: studio-rpc-usb-uart
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
+    artifact-name: coffeevan_with_studio
