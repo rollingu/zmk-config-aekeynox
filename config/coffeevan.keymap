@@ -9,7 +9,7 @@
 ) \
     &kp ESC         LROW1                   RROW1               &none \
     &none           LROW2                   RROW2               &none \
-                LROW3             &none         RROW3           &none \
+    &none           LROW3                   RROW3               &none \
     &none     &kp C_PP  LT1    LT2    RT2    RT1  &none  &none  &none
 
 #include <aekeynox/selenium.keymap>
