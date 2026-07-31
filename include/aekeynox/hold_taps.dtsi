@@ -120,7 +120,7 @@
   #define RTHUMB_TT  &magic_space
   #define LTHUMB_HRM NAV_SC NAV_LAYER BACKSPACE
   #define RTHUMB_HRM &lt NAV_LAYER SPACE
-  #define LTHUMB_S34 NAV_SC NAV_LAYER BACKSPACE
+  #define LTHUMB_S34 NAV_SC NAV_LAYER SPACE
   #define RTHUMB_S34 &kp DEL
 #endif
 
